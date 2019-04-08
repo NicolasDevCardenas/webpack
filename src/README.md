@@ -1,0 +1,1 @@
+Project with webpack, here we learn how to minimize css and javascript files and what is the perfect way to make a step to production.
